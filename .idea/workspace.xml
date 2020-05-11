@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1be76c-9909-4741-be52-084b870cc3b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Product/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/car/Car.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/car/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/games/TicTacToe/TicTacToe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/games/TicTacToe/TictacToe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/games/TicTacToe/TicTacToe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/games/TicTacToe/TicTacToe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -120,12 +100,24 @@
       <option name="presentableId" value="Default" />
       <updated>1587727541080</updated>
       <workItem from="1587727545194" duration="1000" />
-      <workItem from="1588141538751" duration="22736000" />
+      <workItem from="1588141538751" duration="43817000" />
     </task>
+    <task id="LOCAL-00001" summary="cleanup and routing">
+      <created>1588582932899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588582932899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cleanup and routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup and routing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588141792303">
@@ -136,26 +128,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588159752158" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1588261466559">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1588582931860">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588261466559" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1588261466558">
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588582931860" />
+    <state width="723" height="213" key="GridCell.Tab.0.bottom" timestamp="1589184938630">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588261466558" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1588261466558">
+    <state width="723" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589184938630" />
+    <state width="723" height="213" key="GridCell.Tab.0.center" timestamp="1589184938630">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588261466558" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1588261466558">
+    <state width="723" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589184938630" />
+    <state width="723" height="213" key="GridCell.Tab.0.left" timestamp="1589184938629">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588261466558" />
+    <state width="723" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589184938629" />
+    <state width="723" height="213" key="GridCell.Tab.0.right" timestamp="1589184938630">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589184938630" />
     <state x="277" y="61" key="SettingsEditor" timestamp="1588166611693">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588166611693" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1588582936126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588582936126" />
     <state x="462" y="149" width="611" height="536" key="find.popup" timestamp="1588168758014">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
