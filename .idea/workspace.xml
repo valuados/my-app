@@ -99,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587727541080</updated>
       <workItem from="1587727545194" duration="1000" />
-      <workItem from="1588141538751" duration="46845000" />
+      <workItem from="1588141538751" duration="48429000" />
     </task>
     <task id="LOCAL-00001" summary="cleanup and routing">
       <created>1588582932899</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589185028182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add history part one">
+      <created>1589187925023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589187925023</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cleanup and routing" />
     <MESSAGE value="create TicTacToe game" />
-    <option name="LAST_COMMIT_MESSAGE" value="create TicTacToe game" />
+    <MESSAGE value="add history part one" />
+    <option name="LAST_COMMIT_MESSAGE" value="add history part one" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588141792303">
@@ -135,10 +143,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588159752158" />
-    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1589185027325">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1589187924228">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589185027325" />
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589187924228" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589185036556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -159,10 +167,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588166611693" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589185030137">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589187927580">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589185030137" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589187927580" />
     <state x="462" y="149" width="611" height="536" key="find.popup" timestamp="1588168758014">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
