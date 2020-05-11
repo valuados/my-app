@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae1be76c-9909-4741-be52-084b870cc3b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/games/TicTacToe/TicTacToe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/games/TicTacToe/TicTacToe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587727541080</updated>
       <workItem from="1587727545194" duration="1000" />
-      <workItem from="1588141538751" duration="48429000" />
+      <workItem from="1588141538751" duration="50573000" />
     </task>
     <task id="LOCAL-00001" summary="cleanup and routing">
       <created>1588582932899</created>
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589187925023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finish history part">
+      <created>1589189616958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589189616958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +138,8 @@
     <MESSAGE value="cleanup and routing" />
     <MESSAGE value="create TicTacToe game" />
     <MESSAGE value="add history part one" />
-    <option name="LAST_COMMIT_MESSAGE" value="add history part one" />
+    <MESSAGE value="finish history part" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish history part" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588141792303">
@@ -143,10 +150,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="535" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588159752158" />
-    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1589187924228">
+    <state x="393" y="13" key="CommitChangelistDialog2" timestamp="1589189616110">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589187924228" />
+    <state x="393" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589189616110" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589185036556">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -167,14 +174,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588166611693" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589187927580">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589189621005">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589187927580" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589189621005" />
     <state x="462" y="149" width="611" height="536" key="find.popup" timestamp="1588168758014">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="462" y="149" width="611" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1588168758014" />
+    <state x="209" y="143" key="new project wizard" timestamp="1589202833948">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="143" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589202833948" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1588179497453">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
